@@ -13,3 +13,9 @@ When a Player wins, his/her name would be displayed.
 ![uno](/images/1.png)
 
 ![dos](/images/2.png)
+
+Thank you
+
+Yours Truely,
+
+Anuraag Rath
